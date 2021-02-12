@@ -1,0 +1,33 @@
+#students {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+  margin: 10px;
+  /*background-color: #d7bcbc;*/
+}
+#students td, #students th {
+  border: 1px solid grey;
+  padding: 10px;
+}
+.small{
+  width: 1%;
+  font-weight: bold;
+}
+.name,.fname {
+  width: 20%;
+}
+.birth, .start{
+  width: 15%;
+}
+/*#students tr:nth-child(even){
+  background-color: #c9c9c9;
+}*/
+
+thead > tr, tfoot {
+  background: linear-gradient(to right, #e2b0b0 0%, #d0c2c2 100%);
+  padding: 10px 10px;
+  text-align: left;
+}
+
+
+}*/

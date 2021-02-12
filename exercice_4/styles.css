@@ -1,0 +1,16 @@
+*{
+  padding: 10px;
+  margin: 10px;
+}
+h1{
+  font-family: 'Permanent Marker', cursive;
+}
+p{
+  font-family: 'Architects Daughter', cursive;
+  font-size: 1.2rem;
+
+}
+div > :first-child{
+  font-family: 'Lemonada', cursive;
+  font-size: 1.1rem;
+}
